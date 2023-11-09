@@ -51,7 +51,8 @@ Step 10: Security
 Regularly update and patch dependencies to address security vulnerabilities.
 Implement security best practices to protect user data and financial transactions.
 
-Step 11: Maintenance and UpdatesContinuously maintain and update the website with new features and improvements.
+Step 11: Maintenance and Updates 
+Continuously maintain and update the website with new features and improvements.
 Finally listen to user feedback and adapt the website accordingly.
 
 SUMMARY:
