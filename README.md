@@ -33,11 +33,13 @@ Step 7: Deployment
 Deploy the frontend to a hosting service.
 Deploy the backend to a hosting service.
 Configure DNS settings for your domain name.
-Step 8: Continuous Integration and Continuous Deployment (CI/CD)
+Step 8: Continuous Integration and Continuous Deployment (CI/CD) 
 Implement CI/CD pipelines for automated testing and deployment.
+
 Step 9: Monitoring and Analytics
 Set up monitoring tools to track website performance and user behavior.
 Use analytics to gain insights and improve the user experience.
+
 Step 10: Security
 Regularly update and patch dependencies to address security vulnerabilities.
 Implement security best practices to protect user data and financial transactions.
